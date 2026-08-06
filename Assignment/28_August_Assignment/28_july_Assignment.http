@@ -1,6 +1,0 @@
-@_28_july_Assignment_HostAddress = http://localhost:5264
-
-GET {{_28_july_Assignment_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
